@@ -78,12 +78,6 @@ Currently gaining practical experience in a professional environment and working
 
 ---
 
-## 📈 GitHub Stats
-
-![Arnando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARNANDO-MICHAEL-GTG&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: *www.linkedin.com/in/arnandomichaelgtg*
